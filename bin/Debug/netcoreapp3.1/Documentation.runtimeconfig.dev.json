@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\TenderGnat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\TenderGnat\\.nuget\\packages"
+    ]
+  }
+}

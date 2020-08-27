@@ -1,0 +1,13 @@
+C:\Users\TenderGnat\Documents\C#\Documentation\bin\Debug\netcoreapp3.1\Documentation.exe
+C:\Users\TenderGnat\Documents\C#\Documentation\bin\Debug\netcoreapp3.1\Documentation.deps.json
+C:\Users\TenderGnat\Documents\C#\Documentation\bin\Debug\netcoreapp3.1\Documentation.runtimeconfig.json
+C:\Users\TenderGnat\Documents\C#\Documentation\bin\Debug\netcoreapp3.1\Documentation.runtimeconfig.dev.json
+C:\Users\TenderGnat\Documents\C#\Documentation\bin\Debug\netcoreapp3.1\Documentation.dll
+C:\Users\TenderGnat\Documents\C#\Documentation\bin\Debug\netcoreapp3.1\Documentation.pdb
+C:\Users\TenderGnat\Documents\C#\Documentation\obj\Debug\netcoreapp3.1\Documentation.csprojAssemblyReference.cache
+C:\Users\TenderGnat\Documents\C#\Documentation\obj\Debug\netcoreapp3.1\Documentation.AssemblyInfoInputs.cache
+C:\Users\TenderGnat\Documents\C#\Documentation\obj\Debug\netcoreapp3.1\Documentation.AssemblyInfo.cs
+C:\Users\TenderGnat\Documents\C#\Documentation\obj\Debug\netcoreapp3.1\Documentation.csproj.CoreCompileInputs.cache
+C:\Users\TenderGnat\Documents\C#\Documentation\obj\Debug\netcoreapp3.1\Documentation.dll
+C:\Users\TenderGnat\Documents\C#\Documentation\obj\Debug\netcoreapp3.1\Documentation.pdb
+C:\Users\TenderGnat\Documents\C#\Documentation\obj\Debug\netcoreapp3.1\Documentation.genruntimeconfig.cache
